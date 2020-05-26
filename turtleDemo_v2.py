@@ -7,7 +7,7 @@ __date__ = "5/4/2017"
 import turtle
 
 def conststring(x):
-    """This function constructs a string"""
+    """This function returns a string"""
     output = "FLGLG"
     for i in range(x):
         output = output.replace("F", "fLgRfRgLf")
