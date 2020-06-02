@@ -1,5 +1,5 @@
 '''
-This program constructs a string and draws a figure using turtle
+This program constructs a string and draws a figure using turtle module
 '''
 __author__ = "Tejendra Khatri"
 __date__ = "3/4/2017"
